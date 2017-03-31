@@ -1,0 +1,8 @@
+VAR
+	di1 : BOOL;
+	sin_val : INT;
+	Par1 : DINT;
+	RES01Bit1 : BOOL;
+	RES01Bit2 : BOOL;
+	RES01Bit3 : BOOL;
+END_VAR

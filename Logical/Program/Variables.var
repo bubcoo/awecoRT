@@ -1,0 +1,20 @@
+VAR
+	rtiAin_0 : rtiAin;
+	rtiRes_0 : rtiRes;
+	rtiComp_0 : rtiComp;
+	rtiRes_1 : rtiRes;
+	rtiAnLimit_0 : rtiAnLimit;
+	rtiDout_0 : rtiDout;
+	rtiTP_0 : rtiTP;
+	rtiPar_0 : rtiPar;
+	rtiComp_1 : rtiComp;
+	rtiRes_2 : rtiRes;
+	rtiNot_0 : rtiNot;
+	rtiTP_1 : rtiTP;
+	rtiDout_1 : rtiDout;
+	rtiRes_3 : rtiRes;
+	rtiXor_0 : rtiXor;
+	rtiOr_0 : rtiOr;
+	rtiXor_1 : rtiXor;
+	rtiOr_1 : rtiOr;
+END_VAR

@@ -1,0 +1,10 @@
+VAR_CONFIG
+	::SinSignal:RTEnable AT %QX."X20RT8201".RTEnable;
+	Cyclic#1.::di1 AT %IX."X20DI9371".DigitalInput01;
+	Cyclic#1.::sin_val AT %QW."X20AO4622".AnalogOutput01;
+	Cyclic#1.::TyrControl:analogOutput02 AT %QW."X20AO4622".AnalogOutput02;
+	Cyclic#1.::Par1 AT %QD."X20RT8201".PAR01;
+	Cyclic#1.::RES01Bit1 AT %IX."X20RT8201".RES01_Bit1;
+	Cyclic#1.::RES01Bit2 AT %IX."X20RT8201".RES01_Bit2;
+	Cyclic#1.::RES01Bit3  AT %IX."X20RT8201".RES01_Bit3;
+END_VAR

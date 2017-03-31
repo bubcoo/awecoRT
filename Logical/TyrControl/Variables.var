@@ -1,0 +1,7 @@
+VAR
+	DimmerTime : UINT;
+	DimmerPow : REAL;
+	tmp1 : UINT;
+	analogOutput02 : INT;
+	tmp2 : UINT;
+END_VAR
